@@ -7,11 +7,13 @@ This is where I share my journey solving coding problems from [LeetCode](https:/
 
 ## 📁 Repository Structure
 
+```bash
 .
 ├── easy
 ├── medium
 ├── hard
 └── README.md
+```
 
 Each folder contains solutions grouped by difficulty level. Inside, problems are organized by their LeetCode problem title or number.
 
